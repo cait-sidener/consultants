@@ -1,61 +1,63 @@
-[{
-        "companyName": "Taggart & Associates",
-        "section": "Appraisal",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "Thorton Appraisal & Consulting Services",
-        "section": "Appraisal",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "Right of Way Associates",
-        "section": "Appraisal",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "Story & Associates",
-        "section": "Appraisal",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "D & S Acquisition Services",
-        "section": "Acquisition",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "Midwest Land Acquisition",
-        "section": "Acquisition",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "Prairie Star Land Service",
-        "section": "Acquisition",
-        "active": true,
-        "website": "prairiestarland.com"
-    },
-    {
-        "companyName": "Collins Land Services, Inc.",
-        "section": "Acquisition",
-        "active": true,
-        "website": null
-    },
-    {
-        "companyName": "BHC Rhodes",
-        "section": "Engineering",
-        "active": true,
-        "website": "www.ibhc.com"
-    },
-    {
-        "companyName": "REI",
-        "section": "Engineering",
-        "active": false,
-        "website": null
-    }
-]
+{
+    "consultants": [{
+            "companyName": "Taggart & Associates",
+            "section": "Appraisal",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "Thorton Appraisal & Consulting Services",
+            "section": "Appraisal",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "Right of Way Associates",
+            "section": "Appraisal",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "Story & Associates",
+            "section": "Appraisal",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "D & S Acquisition Services",
+            "section": "Acquisition",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "Midwest Land Acquisition",
+            "section": "Acquisition",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "Prairie Star Land Service",
+            "section": "Acquisition",
+            "active": true,
+            "website": "prairiestarland.com"
+        },
+        {
+            "companyName": "Collins Land Services, Inc.",
+            "section": "Acquisition",
+            "active": true,
+            "website": null
+        },
+        {
+            "companyName": "BHC Rhodes",
+            "section": "Engineering",
+            "active": true,
+            "website": "www.ibhc.com"
+        },
+        {
+            "companyName": "REI",
+            "section": "Engineering",
+            "active": false,
+            "website": null
+        }
+    ]
+}
